@@ -56,10 +56,7 @@ The **Deaf and Dumb Language Identification System** is an innovative solution d
 We welcome contributions! If you would like to improve the system, feel free to fork the repository and submit a pull request.
 
 ## Contact
-For any inquiries, feel free to reach out via email at **vidurakavindadev@gmail,com**.
+For any inquiries, feel free to reach out via email at **vidurakavindadev@gmail.com**.
 
 ---
-### **Developed By:**
-**Vidura Kavinda**  
-Intern Software Engineer | Machine Learning Enthusiast
 
